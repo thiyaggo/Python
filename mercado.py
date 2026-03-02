@@ -1,0 +1,2 @@
+class pagamento():
+    pass
